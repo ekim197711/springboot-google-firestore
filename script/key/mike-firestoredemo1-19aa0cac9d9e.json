@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mike-firestoredemo1",
+  "private_key_id": "19aa0cac9d9e4d5a3566ef615748db251913837f",
+  "private_key": "xxxx",
+  "client_email": "mikes-firestore-demo@mike-firestoredemo1.iam.gserviceaccount.com",
+  "client_id": "114077079643024195309",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mikes-firestore-demo%40mike-firestoredemo1.iam.gserviceaccount.com"
+}
